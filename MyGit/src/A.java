@@ -4,6 +4,7 @@ public class A {
 		System.out.println("aaa");
 		System.out.println("a");
 		System.out.println("a2");
+		System.out.println("aa");
 		new B().sayB();
 		new C().sayC();
 	}
